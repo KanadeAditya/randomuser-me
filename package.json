@@ -4,7 +4,7 @@
   "description": "A minimal nodejs sequelize application connecting to RDS ",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.ts",
+    "dev": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aditya Kanade",
